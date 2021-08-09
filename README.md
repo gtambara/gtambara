@@ -1,4 +1,4 @@
-### Hi there 👋
+### Cheer up! 
 
 <h2> I'm G. Tambara! </h2>
 
