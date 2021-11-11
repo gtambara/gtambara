@@ -6,5 +6,5 @@
 
 [![Linkedin: Gabrieltambara](https://img.shields.io/badge/-GabrielTambara-f6b26b?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/gabriel-tambara-rabelo/)](https://www.linkedin.com/in/gabriel-tambara-rabelo/) [![GitHub gtambara](https://img.shields.io/github/followers/gtambara?label=follow&style=social)](https://github.com/gtambara) [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges?color=white&labelColor=f6b26b)](https://badges.pufler.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtambara&layout=compact&langs_count=8&theme=dracula&title_color=000&bg_color=fdbd7b&text_color=black&border_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtambara&langs_count=8&theme=dracula&title_color=000&bg_color=fdbd7b&text_color=black&border_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
