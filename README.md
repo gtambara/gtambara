@@ -1,4 +1,4 @@
-<h1> Cheer up! \(ᵔᵕᵔ)/ </h1> <h3> And welcome to my github </h3>
+<h1> Cheer up! </h1> <h3> And welcome to my github </h3>
 
 
 
