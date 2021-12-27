@@ -12,6 +12,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-3f7abd?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-3f7abd?style=flat-square&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![SQL](https://img.shields.io/badge/-mySQL-3f7abd?style=flat-square&logo=mySQL&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3f7abd?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-3f7abd?style=flat-square&logo=Node.js&logoColor=ADFFAD)
 ![React](https://img.shields.io/badge/-React-3f7abd?style=flat-square&logo=react)
