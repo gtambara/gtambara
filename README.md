@@ -22,6 +22,5 @@
 <h3>Profile</h3>
 
 [![Linkedin: Gabrieltambara](https://img.shields.io/badge/-GabrielTambara-3f7abd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tambara-rabelo/)](https://www.linkedin.com/in/gabriel-tambara-rabelo/)
-[![GitHub gtambara](https://img.shields.io/github/followers/gtambara?label=follow&style=social)](https://github.com/gtambara)
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges?color=white&labelColor=3f7abd)](https://badges.pufler.dev)
 [![Gmail Badge](https://img.shields.io/badge/-gtambararab@gmail.com-3f7abd?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtambararab@gmail.com)](mailto:gtambararab@gmail.com)
