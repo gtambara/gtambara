@@ -14,7 +14,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-3f7abd?style=flat&logo=Raspberry-Pi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-3f7abd?style=flat&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
- <! –– [SQL](https://img.shields.io/badge/-mySQL-3f7abd?style=flat&logo=mySQL&logoColor=white) ––>!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3f7abd?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-3f7abd?style=flate&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-3f7abd?style=flat&logo=github)
