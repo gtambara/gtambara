@@ -17,9 +17,8 @@
 ![Git](https://img.shields.io/badge/-Git-3f7abd?style=flate&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-3f7abd?style=flat&logo=github)
 
-<h3>Contact & more</h3>
+<h3>Contact me</h3>
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges?color=white&labelColor=3f7abd)](https://badges.pufler.dev)
 [![Gmail Badge](https://img.shields.io/badge/-gtambararab@gmail.com-3f7abd?style=flat&logo=Gmail&logoColor=white&link=mailto:gtambararab@gmail.com)](mailto:gtambararab@gmail.com)
 [![Linkedin: Gabrieltambara](https://img.shields.io/badge/-GabrielTambara-3f7abd?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tambara-rabelo/)](https://www.linkedin.com/in/gabriel-tambara-rabelo/)
 
