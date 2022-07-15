@@ -4,7 +4,7 @@
 
 <p><em>Major in Mechatronics Engineering in progress.
 <p> Student at <a href="http://www.unb.br">Universidade de Brasília</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/1280px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" width="30"> <a href=http://ft.unb.br/>Faculdade de Tecnologia</a>  <img src="https://pbs.twimg.com/profile_images/1072505144003174400/5jKEz1Sm_400x400.jpg" width="15"></br>
-</em> 
+<p> I like robotics, astronomy, electronics and embedded systems. A fan of ESP32 and Raspberry-Pi. Love learning new things! </em> 
 
 <h3>Tecnologies</h3>
 
