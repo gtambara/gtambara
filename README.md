@@ -11,6 +11,7 @@
 ![C++](https://img.shields.io/badge/-C\C++-3f7abd?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-3f7abd?style=flat&logo=Python&logoColor=FEFF20)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-3f7abd?style=flat&logo=Raspberry-Pi&logoColor=white)
+![MYSQL](https://img.shields.io/badge/-MySQL-3f7abd?style=flat&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-3f7abd?style=flat&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3f7abd?style=flat&logo=javascript)
