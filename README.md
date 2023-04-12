@@ -1,8 +1,8 @@
 <h1> Cheer up! And welcome to my github. </h1> 
 
 <h3>About me</h3>
-<p><em>Mechatronics/Control and Automation Engineering sudent at <a href="http://www.unb.br">Universidade de Brasília</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/1280px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" width="30">, in the <a href=http://ft.unb.br/>Faculdade de Tecnologia</a> program.
-<p> My profile features my expertise in hardware and software development for embedded systems, control systems, and robotics applications. I have worked on projects related to machine learning, sensor interfacing, data acquisition, real-time control systems and cybersecurity.
+<p><em>Mechatronics/Control and Automation Engineering sudent at <a href="http://www.unb.br">Universidade de Brasília</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/1280px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" width="30">, at the <a href=http://ft.unb.br/>Faculdade de Tecnologia</a> college.
+<p> My Github profile features my expertise in hardware and software development for embedded systems, control systems, and robotics applications. I have worked on projects related to machine learning, sensor interfacing, data acquisition, real-time control systems and cybersecurity.
 
 By the way... I love learning new things! </em> 
 
@@ -11,6 +11,7 @@ By the way... I love learning new things! </em>
 ![C](https://img.shields.io/badge/-C-e6e6e6?style=flat&logo=c&logoColor=426787)
 ![C++](https://img.shields.io/badge/-C++-3f7abd?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-e2d564?style=flat&logo=Python)
+![Matlab](https://img.shields.io/badge/-Matlab-3f7abd?style=flat&logo=matlab)
 ![Rust](https://img.shields.io/badge/-Rust-cd6a48?style=flat&logo=rust)
 ![MYSQL](https://img.shields.io/badge/-MySQL-91d7b4?style=flat&logo=MySQL&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-973939?style=flat&logo=Raspberry-Pi&logoColor=white)
